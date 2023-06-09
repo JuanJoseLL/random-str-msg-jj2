@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-jj2",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuanJoseLL/random-str-msg-jj2.git"
+  },
+  "keywords": [],
+  "author": "Juan Jose",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-jj2": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
